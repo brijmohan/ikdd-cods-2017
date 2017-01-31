@@ -5,6 +5,7 @@ This code works with Ubuntu 16.04 environment having Python 2 installed. Install
 ```
 sudo apt install python-pip virtualenv
 ```
+The code requires pysrilm to be installed on host machine. Follow the instructions at this [link](https://github.com/njsmith/pysrilm) link to install it.
 
 Install this repo using following commands
 ```
