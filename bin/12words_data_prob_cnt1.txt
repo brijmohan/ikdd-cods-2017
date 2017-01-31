@@ -1,0 +1,12 @@
+job	8
+gift	7
+share	10
+theatre	9
+review	4
+interview	5
+star	3
+month	11
+status	12
+development	6
+petrol	1
+performance	2

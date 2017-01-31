@@ -1,0 +1,3 @@
+Replace hin_done_g2p.dic in raw_data and run:
+
+bash build.sh
