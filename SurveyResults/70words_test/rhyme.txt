@@ -1,0 +1,70 @@
+vroong	0.000193548387097
+siin	0.00612903225806
+skuul	0.000645161290323
+d:ig riia	0.0
+voo man	0.000129032258065
+moo nii	0.000322580645161
+siit:	0.000903225806452
+kuul	0.000645161290323
+mai t:ar	0.0
+trai phik	6.45161290323e-05
+su par st:ar	0.0
+paa ra li na meint:	0.000129032258065
+rii keist:	0.0
+plei	0.0824516129032
+viik	0.000903225806452
+poo li t:iks	0.0
+uunkl	0.0
+baay	0.00187096774194
+kaar	0.0172258064516
+baa d:ii	0.00058064516129
+klaas	0.00548387096774
+pei ra pha ra mans	0.0
+roo nad:	0.0
+prei sii d:eint:	0.0
+da ya	0.000129032258065
+sar vis	6.45161290323e-05
+luuk	0.000451612903226
+keis shan	0.0
+haaus	0.000193548387097
+bluu	0.00503225806452
+preis	0.00245161290323
+lya rik	0.0
+gruup	0.000967741935484
+vai sei	0.00058064516129
+m oo m ei n t:s	0.0
+phreind:	0.00167741935484
+reist:	0.00587096774194
+guii	0.000193548387097
+ri jan	0.0
+ruum	0.000387096774194
+kaa leij	0.0
+a ni var si t:aay	0.0
+pi yaup la ra	0.0
+good	0.000774193548387
+thing	0.00387096774194
+skript:	0.00264516129032
+ein tham	0.0
+phar meir	0.0
+soo si t:ii	0.000193548387097
+ma jik	0.0
+jud:j	0.0
+d:i la loo gei	0.000387096774194
+kein dhiid tei	6.45161290323e-05
+d:aak t:ar	6.45161290323e-05
+d:i pheis	0.0
+t:aa yei t:a	0.0
+an jeil	0.0
+kain sar	6.45161290323e-05
+t:aaun	0.000193548387097
+va ri tar	0.0
+draai var	0.0
+phis sar	0.0
+shuunt:h	0.000322580645161
+vai kei shan	0.00206451612903
+sin jar	0.0
+jar na list:	6.45161290323e-05
+haal	0.00748387096774
+tit liy	0.0
+a sam lii	0.0
+jvei lar	0.000129032258065
